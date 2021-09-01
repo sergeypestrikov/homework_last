@@ -9,3 +9,5 @@ print(type(c))
 
 d = 15 ** 2
 print(type(d))
+
+#правильно ли?
